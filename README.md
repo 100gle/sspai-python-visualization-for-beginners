@@ -1,5 +1,10 @@
 # 项目说明
 
+仓库地址：
+
+- [Gitee](https://gitee.com/tinybot/sspai-python-visualization-for-beginners)（国内）
+- [Github](https://github.com/100gle/sspai-python-visualization-for-beginners)（备用）
+
 此项目为少数派《零基础体验 Python 数据可视化》栏目（已下架）活动相关源码仓库，示例代码主要有两部分：
 
 - `code/text-version` 对应文字版内容的源码；
